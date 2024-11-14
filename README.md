@@ -7,6 +7,8 @@ Development of a sport gel based on natural ingredients to enhace athletic perfo
 ### Creators:
 - **Bruno Melgar**<sup>1</sup>  <br/>	
 ORCID:0000-0002-5825-6872
+- **Ahmed Rami Najjar**<sup>1</sup>  <br/>	
+ORCID:
 - **Tayse Ferreira**<sup>1,2</sup>  <br/>
 ORCID:0000-0003-3913-5386	
 - **Lillian Barros**<sup>1,2</sup>  <br/>
@@ -39,12 +41,14 @@ Can be found in the Metadata xlsx file
 Can be found in the publication, will be linked to the dataset once published online
 
 - **This dataset contains the following files:**
-  - **12** file (Excel file with the entire dataset)
-  - **Stats_Data** file (Excel file with statistical data used for the description of the manuscript)
-  - Code file **Qual_stats.ipynb** includes the statistical analyses conducted in the quality and bioactive analyses shown in the manuscript
-  - Code file **Oil_qual_visual.ipynb** includes the code used for vizualitaion conducted in the quality and bioactive analyses shown in the manuscript
-  - Code file **Volatile differences arb, Volatile differences cob and Volatile_all.R** includes the analyses conducted in the volatile section of the manuscript
-  - Code file **Sensorial.R** includes the analyses conducted in the sensorial section of the manuscript
+  - **DPPH_Najjar.xlsx** file (Excel file with the dataset for DPPH dose Response used in E5 - Dose Response.R)
+  - **gums.xlsx andf gumts.xlsx** files (Excel files datasets used for R codes E1, E2, and E3)
+  - Code file **Gums timeseries.ipynb** includes the analyses conducted for time series plots
+  - Code file **E1 - Gums Bar plots.R** includes the analyses conducted in the first characterization of gums
+  - Code file **E1 - Gums summary.R** includes the analyses conducted in the first summary of gums
+  - Code file **E2 - Gums regressions.R** includes the analyses conducted for the gums regressions
+  - Code file **E3 - Timeseries stats.R** includes the analyses conducted timeseries experiment
+  - Code file **E5 - Dose Response.R** includes the analyses conducted for the DPPH dose respone model and interpolation
 
 *This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.*
