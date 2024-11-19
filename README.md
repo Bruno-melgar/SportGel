@@ -44,7 +44,7 @@ Can be found in the publication, will be linked to the dataset once published on
   - **DPPH_Najjar.xlsx** file (Excel file with the dataset for DPPH dose Response used in E5 - Dose Response.R)
   - **gums.xlsx andf gumts.xlsx** files (Excel files datasets used for R codes E1, E2, and E3)
   - Code file **Gums timeseries.ipynb** includes the analyses conducted for time series plots
-  - Code file **E1 - Gums Bar plots.R** includes the analyses conducted in the first characterization of gums
+  - Code file **E1 - Gums Bar plots and transformation.R** includes the analyses conducted in the first characterization of gums
   - Code file **E1 - Gums summary.R** includes the analyses conducted in the first summary of gums
   - Code file **E2 - Gums regressions.R** includes the analyses conducted for the gums regressions
   - Code file **E3 - Timeseries stats.R** includes the analyses conducted timeseries experiment
